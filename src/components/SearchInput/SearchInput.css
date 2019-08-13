@@ -1,0 +1,11 @@
+section.SearchInput {
+  display: flex;
+  align-items: center;
+}
+
+section.SearchInput p {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 10px;
+  margin-left: 20px;
+}

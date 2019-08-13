@@ -1,0 +1,13 @@
+section.SearchDropdown {
+  display: flex;
+  align-items: center;
+}
+
+.dropdown-toggle {
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+  color: #212529 !important;
+  background: white !important;
+  width: 160px;
+}
